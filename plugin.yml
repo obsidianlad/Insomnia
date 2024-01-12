@@ -1,0 +1,10 @@
+name: Insomnia
+version: 1.0.0
+main: lad.obsidian.insomnia.Insomnia
+author: Obsidianlad
+description: Disallows sleeping in beds.
+
+permissions:
+  insomnia.on:
+    default: true
+    description: Permission to never sleep.
